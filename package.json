@@ -1,0 +1,21 @@
+{
+  "name": "clean-auth",
+  "version": "1.0.0",
+  "description": "Clean implementation for authentication system for simple user",
+  "main": "application.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Himanshu Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.9.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.1.1",
+    "typescript": "^5.4.5"
+  }
+}
